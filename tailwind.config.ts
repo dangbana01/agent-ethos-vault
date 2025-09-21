@@ -75,10 +75,12 @@ export default {
         "gradient-secondary": "var(--gradient-secondary)",
         "gradient-success": "var(--gradient-success)",
         "gradient-danger": "var(--gradient-danger)",
+        "gradient-domain": "var(--gradient-domain)",
       },
       boxShadow: {
         "glow": "var(--shadow-glow)",
         "card": "var(--shadow-card)",
+        "domain": "var(--shadow-domain)",
       },
       borderRadius: {
         lg: "var(--radius)",
