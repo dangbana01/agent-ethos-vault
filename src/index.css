@@ -8,46 +8,46 @@ All colors MUST be HSL.
 
 @layer base {
   :root {
-    --background: 240 10% 3.9%;
+    --background: 240 30% 4%;
     --foreground: 0 0% 98%;
 
-    --card: 240 10% 3.9%;
-    --card-foreground: 0 0% 98%;
+    --card: 245 30% 8%;
+    --card-foreground: 0 0% 95%;
 
-    --popover: 240 10% 3.9%;
-    --popover-foreground: 0 0% 98%;
+    --popover: 245 30% 8%;
+    --popover-foreground: 0 0% 95%;
 
-    --primary: 249 115% 22%;
-    --primary-foreground: 0 0% 98%;
+    --primary: 249 100% 65%;
+    --primary-foreground: 0 0% 100%;
 
-    --secondary: 217 91% 60%;
+    --secondary: 260 80% 55%;
     --secondary-foreground: 0 0% 98%;
 
-    --muted: 240 3.7% 15.9%;
-    --muted-foreground: 240 5% 64.9%;
+    --muted: 240 15% 15%;
+    --muted-foreground: 240 5% 65%;
 
-    --accent: 189 94% 43%;
+    --accent: 270 90% 65%;
     --accent-foreground: 0 0% 98%;
 
     --destructive: 0 62.8% 30.6%;
     --destructive-foreground: 0 0% 98%;
 
-    --border: 240 3.7% 15.9%;
-    --input: 240 3.7% 15.9%;
-    --ring: 263 70% 50%;
+    --border: 240 15% 18%;
+    --input: 240 15% 15%;
+    --ring: 249 100% 65%;
 
     --radius: 0.75rem;
 
     /* Doma Protocol design tokens */
-    --gradient-primary: linear-gradient(135deg, hsl(249 115% 22%), hsl(217 91% 60%));
-    --gradient-secondary: linear-gradient(135deg, hsl(240 3.7% 15.9%), hsl(240 5% 20%));
+    --gradient-primary: linear-gradient(135deg, hsl(249 100% 65%), hsl(260 80% 55%));
+    --gradient-secondary: linear-gradient(135deg, hsl(245 30% 8%), hsl(240 20% 12%));
     --gradient-success: linear-gradient(135deg, hsl(142 76% 36%), hsl(142 70% 45%));
     --gradient-danger: linear-gradient(135deg, hsl(0 62.8% 30.6%), hsl(0 70% 40%));
-    --gradient-domain: linear-gradient(135deg, hsl(249 115% 22%), hsl(189 94% 43%));
+    --gradient-domain: linear-gradient(135deg, hsl(249 100% 65%), hsl(270 90% 65%));
     
-    --shadow-glow: 0 0 40px hsl(249 115% 22% / 0.4);
-    --shadow-card: 0 4px 20px hsl(240 10% 3.9% / 0.5);
-    --shadow-domain: 0 0 30px hsl(189 94% 43% / 0.3);
+    --shadow-glow: 0 0 40px hsl(249 100% 65% / 0.4);
+    --shadow-card: 0 4px 20px hsl(240 30% 4% / 0.5);
+    --shadow-domain: 0 0 30px hsl(270 90% 65% / 0.3);
     
     --success: 142 76% 36%;
     --success-foreground: 0 0% 98%;
