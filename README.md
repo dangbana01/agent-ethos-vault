@@ -1,11 +1,10 @@
-Welcome to Souls of the Unded — Doma Project: Agent Ethos
-Live Demo
+Welcome to souloftheunded — Doma Project: Agent Ethos
 
 URL: https://doma-agentdefi.netlify.app
 
 Project Overview
 
-Agent Ethos is part of the Souls of the Unded Doma initiative — a project exploring decentralized agent-driven finance and interactive Web3 experiences.
+Agent Ethos is part of the souloftheunded Doma initiative — a project exploring decentralized agent-driven finance and interactive Web3 experiences.
 It demonstrates how composable AI agents can interface with the Doma ecosystem to power future decentralized applications.
 
 Tech Stack
